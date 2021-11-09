@@ -13,4 +13,4 @@ Given historical data on loans given out with information on whether or not the 
 
 The "loan_status" column contains our label.
 
-CANNOT UPLOAD THE DATASET BECAUSE ITS LARGER THAN 25 MB AS OER GITHUB RULES
+CANNOT UPLOAD THE DATASET BECAUSE ITS LARGER THAN 25 MB AS PER GITHUB RULES
